@@ -14,7 +14,7 @@ void setup() {
   servo2.attach(servo2Pin);
 
   Serial.begin(9600);
-
+}
 
 void loop() {
   // Read the joystick values
